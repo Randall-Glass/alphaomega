@@ -1,0 +1,6 @@
+name="Alpha Omega Wizard"
+url="https://archive.org/download/alphaomegabuild/alphaomegabuild.zip"
+img="https://archive.org/download/alphaomegabuild_201805/icon.png"
+fanart="https://archive.org/download/alphaomegabuild_201805/fanart.jpg"
+description="Alpha Omega Wizard: Christian Videos from Youtube, Christain Radio Channels, Audio Bible"
+version="1.0"
