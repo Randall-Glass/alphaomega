@@ -1,2 +1,1 @@
-# alphaomega
-kodi addon
+Alpha Omega Wizard installs Christian Kodi Alpha Omega builConnects to youtube christain videos, christain radio IPTV list, and audio bible.
